@@ -11,5 +11,5 @@ Wikipedia: [Backgamoon](https://en.wikipedia.org/wiki/Backgammon)
 
 ### Rules
 > It follows all general rules of Backgamomon, nothing special added.
-> Wikipedia: [Rules](https://en.wikipedia.org/wiki/Backgammon#Rules)
+Wikipedia: [Rules](https://en.wikipedia.org/wiki/Backgammon#Rules)
 
