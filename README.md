@@ -13,3 +13,8 @@ Wikipedia: [Backgamoon](https://en.wikipedia.org/wiki/Backgammon)
 > It follows all general rules of Backgamomon, nothing special added. <br/>
 Wikipedia: [Rules](https://en.wikipedia.org/wiki/Backgammon#Rules) <br/>
 
+### Starting 
+> There are two arguments required to enter at start, which are both player names. <br/>
+> You can choose which the names can be, no space allowed for one name.
+
+![](./Backgammon.png)
